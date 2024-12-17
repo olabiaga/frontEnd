@@ -13,15 +13,15 @@ const About = () => {
         <section style={styles.section}>
           <h2 style={styles.subtitle}>Introduction</h2>
           <p style={styles.paragraph}>
-            I am currently pursuing a Bachelor of Science in Computer Science (BSCS), specializing in programming, data structures, and software development. Now in my second year, I am equipping myself with a balance of theoretical and practical knowledge in the field of computing. My dream is to become a skilled game developer, merging technology and creativity to craft engaging digital experiences.
-            I was born on <strong>June 23, 2004</strong>, and I take pride in celebrating this special day with my family and friends. My zodiac sign is Cancer, reflecting my nurturing and intuitive nature.
+            I am currently pursuing a Bachelor of Science in Computer Science (BSCS) specializing in programming and software development. And I am equipping myself with a balance of theoretical and practical knowledge in the field of computing. 
+            I was born on <strong>April 15, 2004</strong>, and I take pride in celebrating this special day with my family and friends. My zodiac sign is Cancer, reflecting my nurturing and intuitive nature.
           </p>
         </section>
 
         <section style={styles.section}>
           <h2 style={styles.subtitle}>Health</h2>
           <p style={styles.paragraph}>
-            Maintaining physical fitness is a journey I am committed to. While I currently have a below-average fitness level, I strive to improve through mindful practices. I also manage a condition involving weak lungs, which requires extra care in managing stamina and avoiding strenuous activities. These challenges motivate me to prioritize health and well-being.
+            Maintaining physical fitness is a journey I am committed to.
           </p>
         </section>
 

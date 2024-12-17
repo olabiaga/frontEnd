@@ -14,7 +14,7 @@ const About = () => {
           <h2 style={styles.subtitle}>Introduction</h2>
           <p style={styles.paragraph}>
             I am currently pursuing a Bachelor of Science in Computer Science (BSCS) specializing in programming and software development. And I am equipping myself with a balance of theoretical and practical knowledge in the field of computing. 
-            I was born on <strong>April 15, 2004</strong>, and I take pride in celebrating this special day with my family and friends. My zodiac sign is Cancer, reflecting my nurturing and intuitive nature.
+            I was born on <strong>April 15, 2004</strong>, and I take pride in celebrating this special day with my family and friends.
           </p>
         </section>
 
